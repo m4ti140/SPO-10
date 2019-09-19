@@ -1,15 +1,15 @@
 # Windows default autosave extension
-.asv
+*.asv
 
 # OSX  nix default autosave extension
-.m~
+*.m~
 
 # Compiled MEX binaries (all platforms)
-.mex
+*.mex
 
 # Packaged app and toolbox files
-.mlappinstall
-.mltbx
+*.mlappinstall
+*.mltbx
 
 # Generated helpsearch folders
 helpsearch
@@ -22,13 +22,13 @@ sccprj
 codegen
 
 # Simulink autosave extension
-.autosave
+*.autosave
 
 # Simulink cache files
-.slxc
+*.slxc
 
 # Octave session info
 octave-workspace
 
 # custom
-*/private
+private
