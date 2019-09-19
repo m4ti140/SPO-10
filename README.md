@@ -1,4 +1,4 @@
-#Polski
+# Polski
 
 Celem niniejszego projektu było stworzenie modelu symulacyjnego systemu ostrzegania przed opromieniowaniem na potrzeby symulatorów lotu, na przykładzie radzieckiego systemu SPO-10 Izd. S3M. W tym celu stworzony został najpierw szczegółowy model Simulink w celu ustalenia szczegółów zachowania i logiki systemu, a następnie stworzony został model uproszczony, działający w czasie rzeczywistym dla przykładowego wejścia i wyjścia.
 
